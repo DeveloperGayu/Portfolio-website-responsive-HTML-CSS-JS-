@@ -16,9 +16,5 @@ quire the skills necessary to create a responsive portfolio.
 
 
 
-<h3>light theme </h3>
-
-![Screenshot (7)](https://github.com/DeveloperGayu/portfolio-website---responsive-using-HTML-CSS-JS/assets/160575044/26e6ad5b-e35e-4897-a406-5b1a5cfe68de)
-
 
 
